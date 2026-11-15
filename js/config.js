@@ -12,7 +12,7 @@ const CONFIG = {
   instagram: "",               // contoh: "https://instagram.com/akunlo"
   facebook: "",                // contoh: "https://facebook.com/akunlo"
   // Saluran WhatsApp (tombol "Gabung Saluran" di halaman Testimoni). Kosongkan "" kalau tombol tidak mau tampil.
-  saluran: "",                 // contoh: "https://whatsapp.com/channel/xxxxxxxxxxxx"
+  saluran: "https://whatsapp.com/channel/0029VbEBB3rCxoB5Ua3tYI2i",                 // contoh: "https://whatsapp.com/channel/xxxxxxxxxxxx"
   saluranTeks: "Gabung Saluran",
   jamOperasional: "Setiap hari, 09.00 - 22.00 WIB",
 
